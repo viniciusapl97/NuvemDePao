@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NuvemDePao.iml" filepath="$PROJECT_DIR$/NuvemDePao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NuvemDePao.iml" filepath="$PROJECT_DIR$/.idea/NuvemDePao.iml" />
     </modules>
   </component>
 </project>
